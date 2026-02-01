@@ -1,32 +1,116 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="NumeralSystemConverterTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-02-01T16:14:07.947Z" hostname="TRAYANA" time="0.057">
+<testsuite name="NumeralSystemConverterTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-02-01T16:15:38.956Z" hostname="TRAYANA" time="0.199">
   <properties/>
-  <testcase name="start" classname="NumeralSystemConverterTest" time="0.057"/>
+  <testcase name="start" classname="NumeralSystemConverterTest" time="0.199"/>
   <system-out><![CDATA[?[1;31m
 Start test 1?[0m
-Enter number in decimal system: > 759
-Enter target base: > 16
-Conversion result: 2F7
+Do you want to convert /from decimal or /to decimal? (To quit type /exit) > /exit
 ?[1;31m
 Start test 2?[0m
-Enter number in decimal system: > 599
-Enter target base: > 16
-Conversion result: 257
+Do you want to convert /from decimal or /to decimal? (To quit type /exit) > /from
+Enter number in decimal system: > 64
+Enter target base: > 2
+Conversion result: 1000000
+Do you want to convert /from decimal or /to decimal? (To quit type /exit) > /exit
 ?[1;31m
 Start test 3?[0m
-Enter number in decimal system: > 142
+Do you want to convert /from decimal or /to decimal? (To quit type /exit) > /from
+Enter number in decimal system: > 233
 Enter target base: > 16
-Conversion result: 8E
+Conversion result: e9
+Do you want to convert /from decimal or /to decimal? (To quit type /exit) > /from
+Enter number in decimal system: > 495
+Enter target base: > 16
+Conversion result: 1ef
+Do you want to convert /from decimal or /to decimal? (To quit type /exit) > /from
+Enter number in decimal system: > 265
+Enter target base: > 16
+Conversion result: 109
+Do you want to convert /from decimal or /to decimal? (To quit type /exit) > /from
+Enter number in decimal system: > 246
+Enter target base: > 16
+Conversion result: f6
+Do you want to convert /from decimal or /to decimal? (To quit type /exit) > /from
+Enter number in decimal system: > 146
+Enter target base: > 16
+Conversion result: 92
+Do you want to convert /from decimal or /to decimal? (To quit type /exit) > /exit
 ?[1;31m
 Start test 4?[0m
-Enter number in decimal system: > 825
-Enter target base: > 2
-Conversion result: 1100111001
+Do you want to convert /from decimal or /to decimal? (To quit type /exit) > /from
+Enter number in decimal system: > 70
+Enter target base: > 8
+Conversion result: 106
+Do you want to convert /from decimal or /to decimal? (To quit type /exit) > /from
+Enter number in decimal system: > 427
+Enter target base: > 8
+Conversion result: 653
+Do you want to convert /from decimal or /to decimal? (To quit type /exit) > /from
+Enter number in decimal system: > 823
+Enter target base: > 8
+Conversion result: 1467
+Do you want to convert /from decimal or /to decimal? (To quit type /exit) > /from
+Enter number in decimal system: > 946
+Enter target base: > 8
+Conversion result: 1662
+Do you want to convert /from decimal or /to decimal? (To quit type /exit) > /from
+Enter number in decimal system: > 419
+Enter target base: > 8
+Conversion result: 643
+Do you want to convert /from decimal or /to decimal? (To quit type /exit) > /exit
 ?[1;31m
 Start test 5?[0m
-Enter number in decimal system: > 547
-Enter target base: > 8
-Conversion result: 1043
+Do you want to convert /from decimal or /to decimal? (To quit type /exit) > /to
+Enter source number: > 1100011000
+Enter source base: > 2
+Conversion to decimal result: 792
+Do you want to convert /from decimal or /to decimal? (To quit type /exit) > /exit
+?[1;31m
+Start test 6?[0m
+Do you want to convert /from decimal or /to decimal? (To quit type /exit) > /to
+Enter source number: > 567
+Enter source base: > 8
+Conversion to decimal result: 375
+Do you want to convert /from decimal or /to decimal? (To quit type /exit) > /to
+Enter source number: > 206
+Enter source base: > 8
+Conversion to decimal result: 134
+Do you want to convert /from decimal or /to decimal? (To quit type /exit) > /to
+Enter source number: > 1335
+Enter source base: > 8
+Conversion to decimal result: 733
+Do you want to convert /from decimal or /to decimal? (To quit type /exit) > /to
+Enter source number: > 1433
+Enter source base: > 8
+Conversion to decimal result: 795
+Do you want to convert /from decimal or /to decimal? (To quit type /exit) > /to
+Enter source number: > 1447
+Enter source base: > 8
+Conversion to decimal result: 807
+Do you want to convert /from decimal or /to decimal? (To quit type /exit) > /exit
+?[1;31m
+Start test 7?[0m
+Do you want to convert /from decimal or /to decimal? (To quit type /exit) > /to
+Enter source number: > 35d
+Enter source base: > 16
+Conversion to decimal result: 861
+Do you want to convert /from decimal or /to decimal? (To quit type /exit) > /to
+Enter source number: > 37
+Enter source base: > 16
+Conversion to decimal result: 55
+Do you want to convert /from decimal or /to decimal? (To quit type /exit) > /to
+Enter source number: > 34e
+Enter source base: > 16
+Conversion to decimal result: 846
+Do you want to convert /from decimal or /to decimal? (To quit type /exit) > /to
+Enter source number: > 175
+Enter source base: > 16
+Conversion to decimal result: 373
+Do you want to convert /from decimal or /to decimal? (To quit type /exit) > /to
+Enter source number: > 34f
+Enter source base: > 16
+Conversion to decimal result: 847
+Do you want to convert /from decimal or /to decimal? (To quit type /exit) > /exit
 ]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
