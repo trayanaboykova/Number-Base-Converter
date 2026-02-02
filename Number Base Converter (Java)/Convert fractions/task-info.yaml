@@ -4,6 +4,7 @@ files:
     visible: true
     learner_created: false
   - name: test/NumeralSystemConverterTest.java
+    visible: true
     learner_created: false
 feedback_link: https://hyperskill.org/projects/181/stages/916/implement#comment
 status: Solved
@@ -11,4 +12,4 @@ feedback:
   message: Well done! You've finished the project. Select a new project on <a href="https://hyperskill.org/projects">Hyperskill</a>
     to continue learning.
   time: "Sun, 01 Feb 2026 16:24:24 UTC"
-record: -1
+record: 4
